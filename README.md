@@ -3,6 +3,7 @@
 O projeto tem como objetivo analisar um conjunto de dados de colaboradores de uma empresa para prever o abandono dos mesmos. Seguindo uma abordagem metódica e estruturada, o projeto é dividido em seis passos principais. Abaixo, descrevemos cada fase do projeto:
 
 * **Passo 1: Análise e Tratamento dos Dados**
+* 
 *1. Carregamento e Análise Inicial:*
 * Utilizamos a biblioteca Pandas para carregar a base de dados HR_Abandono.csv. Realizamos uma inspeção inicial dos dados para identificar características como valores nulos, duplicatas e inconsistências.
 *2. Tratamento de Dados:*
